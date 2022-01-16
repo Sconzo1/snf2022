@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/sanofi_front/static/js/main.062e3e4e.chunk.js",
-    "main.js.map": "/sanofi_front/static/js/main.062e3e4e.chunk.js.map",
+    "main.js": "/sanofi_front/static/js/main.9e4c9b91.chunk.js",
+    "main.js.map": "/sanofi_front/static/js/main.9e4c9b91.chunk.js.map",
     "runtime-main.js": "/sanofi_front/static/js/runtime-main.84ef8f8a.js",
     "runtime-main.js.map": "/sanofi_front/static/js/runtime-main.84ef8f8a.js.map",
     "static/js/2.624e57f0.chunk.js": "/sanofi_front/static/js/2.624e57f0.chunk.js",
     "static/js/2.624e57f0.chunk.js.map": "/sanofi_front/static/js/2.624e57f0.chunk.js.map",
     "index.html": "/sanofi_front/index.html",
     "static/js/2.624e57f0.chunk.js.LICENSE.txt": "/sanofi_front/static/js/2.624e57f0.chunk.js.LICENSE.txt",
-    "static/media/city.bcadc402.png": "/sanofi_front/static/media/city.bcadc402.png",
+    "static/media/city.c0298218.png": "/sanofi_front/static/media/city.c0298218.png",
     "static/media/clouds.fe54cd1b.png": "/sanofi_front/static/media/clouds.fe54cd1b.png",
-    "static/media/logo.537ea8b5.png": "/sanofi_front/static/media/logo.537ea8b5.png",
+    "static/media/logo.badc9b00.png": "/sanofi_front/static/media/logo.badc9b00.png",
     "static/media/sky.888784a3.png": "/sanofi_front/static/media/sky.888784a3.png",
-    "static/media/sun.8ee04838.png": "/sanofi_front/static/media/sun.8ee04838.png"
+    "static/media/sun.f9441359.png": "/sanofi_front/static/media/sun.f9441359.png"
   },
   "entrypoints": [
     "static/js/runtime-main.84ef8f8a.js",
     "static/js/2.624e57f0.chunk.js",
-    "static/js/main.062e3e4e.chunk.js"
+    "static/js/main.9e4c9b91.chunk.js"
   ]
 }
