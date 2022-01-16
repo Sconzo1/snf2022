@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/sanofi_front/static/js/main.44d678cd.chunk.js",
-    "main.js.map": "/sanofi_front/static/js/main.44d678cd.chunk.js.map",
+    "main.js": "/sanofi_front/static/js/main.062e3e4e.chunk.js",
+    "main.js.map": "/sanofi_front/static/js/main.062e3e4e.chunk.js.map",
     "runtime-main.js": "/sanofi_front/static/js/runtime-main.84ef8f8a.js",
     "runtime-main.js.map": "/sanofi_front/static/js/runtime-main.84ef8f8a.js.map",
     "static/js/2.624e57f0.chunk.js": "/sanofi_front/static/js/2.624e57f0.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.84ef8f8a.js",
     "static/js/2.624e57f0.chunk.js",
-    "static/js/main.44d678cd.chunk.js"
+    "static/js/main.062e3e4e.chunk.js"
   ]
 }
