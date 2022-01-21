@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.js": "/sanofi_front/static/js/main.9e4c9b91.chunk.js",
-    "main.js.map": "/sanofi_front/static/js/main.9e4c9b91.chunk.js.map",
-    "runtime-main.js": "/sanofi_front/static/js/runtime-main.84ef8f8a.js",
-    "runtime-main.js.map": "/sanofi_front/static/js/runtime-main.84ef8f8a.js.map",
-    "static/js/2.624e57f0.chunk.js": "/sanofi_front/static/js/2.624e57f0.chunk.js",
-    "static/js/2.624e57f0.chunk.js.map": "/sanofi_front/static/js/2.624e57f0.chunk.js.map",
-    "index.html": "/sanofi_front/index.html",
-    "static/js/2.624e57f0.chunk.js.LICENSE.txt": "/sanofi_front/static/js/2.624e57f0.chunk.js.LICENSE.txt",
-    "static/media/city.c0298218.png": "/sanofi_front/static/media/city.c0298218.png",
-    "static/media/clouds.fe54cd1b.png": "/sanofi_front/static/media/clouds.fe54cd1b.png",
-    "static/media/logo.badc9b00.png": "/sanofi_front/static/media/logo.badc9b00.png",
-    "static/media/sky.888784a3.png": "/sanofi_front/static/media/sky.888784a3.png",
-    "static/media/sun.f9441359.png": "/sanofi_front/static/media/sun.f9441359.png"
+    "main.css": "/snf2022/static/css/main.94167d4a.chunk.css",
+    "main.js": "/snf2022/static/js/main.9ddc11cc.chunk.js",
+    "main.js.map": "/snf2022/static/js/main.9ddc11cc.chunk.js.map",
+    "runtime-main.js": "/snf2022/static/js/runtime-main.c54cac89.js",
+    "runtime-main.js.map": "/snf2022/static/js/runtime-main.c54cac89.js.map",
+    "static/js/2.8e8f3153.chunk.js": "/snf2022/static/js/2.8e8f3153.chunk.js",
+    "static/js/2.8e8f3153.chunk.js.map": "/snf2022/static/js/2.8e8f3153.chunk.js.map",
+    "index.html": "/snf2022/index.html",
+    "static/css/main.94167d4a.chunk.css.map": "/snf2022/static/css/main.94167d4a.chunk.css.map",
+    "static/js/2.8e8f3153.chunk.js.LICENSE.txt": "/snf2022/static/js/2.8e8f3153.chunk.js.LICENSE.txt",
+    "static/media/bg_countdown.818aab30.jpg": "/snf2022/static/media/bg_countdown.818aab30.jpg",
+    "static/media/bg_questions.2f51ac52.jpg": "/snf2022/static/media/bg_questions.2f51ac52.jpg",
+    "static/media/city-min.a9ac2107.png": "/snf2022/static/media/city-min.a9ac2107.png",
+    "static/media/clouds.386974d2.png": "/snf2022/static/media/clouds.386974d2.png",
+    "static/media/styles.css": "/snf2022/static/media/dsDigits.67d08007.ttf",
+    "static/media/logo.424430cb.png": "/snf2022/static/media/logo.424430cb.png",
+    "static/media/sky.0d71127e.png": "/snf2022/static/media/sky.0d71127e.png",
+    "static/media/sun.7222b24c.png": "/snf2022/static/media/sun.7222b24c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.84ef8f8a.js",
-    "static/js/2.624e57f0.chunk.js",
-    "static/js/main.9e4c9b91.chunk.js"
+    "static/js/runtime-main.c54cac89.js",
+    "static/js/2.8e8f3153.chunk.js",
+    "static/css/main.94167d4a.chunk.css",
+    "static/js/main.9ddc11cc.chunk.js"
   ]
 }
