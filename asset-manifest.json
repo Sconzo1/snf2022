@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/snf2022/static/css/main.06026c90.chunk.css",
-    "main.js": "/snf2022/static/js/main.8fd652bd.chunk.js",
-    "main.js.map": "/snf2022/static/js/main.8fd652bd.chunk.js.map",
+    "main.js": "/snf2022/static/js/main.f6de219a.chunk.js",
+    "main.js.map": "/snf2022/static/js/main.f6de219a.chunk.js.map",
     "runtime-main.js": "/snf2022/static/js/runtime-main.c54cac89.js",
     "runtime-main.js.map": "/snf2022/static/js/runtime-main.c54cac89.js.map",
-    "static/js/2.996d07c7.chunk.js": "/snf2022/static/js/2.996d07c7.chunk.js",
-    "static/js/2.996d07c7.chunk.js.map": "/snf2022/static/js/2.996d07c7.chunk.js.map",
+    "static/js/2.72c680a4.chunk.js": "/snf2022/static/js/2.72c680a4.chunk.js",
+    "static/js/2.72c680a4.chunk.js.map": "/snf2022/static/js/2.72c680a4.chunk.js.map",
     "index.html": "/snf2022/index.html",
     "static/css/main.06026c90.chunk.css.map": "/snf2022/static/css/main.06026c90.chunk.css.map",
-    "static/js/2.996d07c7.chunk.js.LICENSE.txt": "/snf2022/static/js/2.996d07c7.chunk.js.LICENSE.txt",
+    "static/js/2.72c680a4.chunk.js.LICENSE.txt": "/snf2022/static/js/2.72c680a4.chunk.js.LICENSE.txt",
     "static/media/bg_countdown.818aab30.jpg": "/snf2022/static/media/bg_countdown.818aab30.jpg",
     "static/media/bg_questions.2f51ac52.jpg": "/snf2022/static/media/bg_questions.2f51ac52.jpg",
     "static/media/city-min.a9ac2107.png": "/snf2022/static/media/city-min.a9ac2107.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c54cac89.js",
-    "static/js/2.996d07c7.chunk.js",
+    "static/js/2.72c680a4.chunk.js",
     "static/css/main.06026c90.chunk.css",
-    "static/js/main.8fd652bd.chunk.js"
+    "static/js/main.f6de219a.chunk.js"
   ]
 }
