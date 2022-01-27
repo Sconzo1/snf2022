@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/snf2022/static/css/main.b872144d.chunk.css",
-    "main.js": "/snf2022/static/js/main.67eb569f.chunk.js",
-    "main.js.map": "/snf2022/static/js/main.67eb569f.chunk.js.map",
+    "main.js": "/snf2022/static/js/main.d2e467cf.chunk.js",
+    "main.js.map": "/snf2022/static/js/main.d2e467cf.chunk.js.map",
     "runtime-main.js": "/snf2022/static/js/runtime-main.c54cac89.js",
     "runtime-main.js.map": "/snf2022/static/js/runtime-main.c54cac89.js.map",
     "static/js/2.a1bf60ae.chunk.js": "/snf2022/static/js/2.a1bf60ae.chunk.js",
@@ -30,6 +30,6 @@
     "static/js/runtime-main.c54cac89.js",
     "static/js/2.a1bf60ae.chunk.js",
     "static/css/main.b872144d.chunk.css",
-    "static/js/main.67eb569f.chunk.js"
+    "static/js/main.d2e467cf.chunk.js"
   ]
 }
